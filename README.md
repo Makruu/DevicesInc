@@ -1,4 +1,4 @@
 # DevicesInc
 Savonian projektityö
 
-Sovellus laitteiden lainaamiseen
+React/Node.js - sovellus laitteiden lainaamiseen
